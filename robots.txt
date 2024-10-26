@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jroku.github.io/rVG/sitemap.rVG
