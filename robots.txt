@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jroku.csgad.com/RPD/sitemap.xml.gz
